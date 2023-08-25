@@ -8,9 +8,8 @@
 
 using namespace std;
 
-int main()
+int main(int, char **)
 {
-	cout << "Initializing MPGRE...." << endl;
 
 	mpgre::renderer app(1);
 

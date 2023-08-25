@@ -1,0 +1,8 @@
+Package: vulkan-headers
+Version: 1.3.260
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3cd3629a590d182a435e485632a23bda83536674d814b069355cc5a53744c794
+Description: Vulkan header files and API registry
+Status: purge ok half-installed

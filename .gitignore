@@ -336,3 +336,5 @@ MigrationBackup/
 # Project Specific 
 out/
 cmake/
+build/
+bin/
