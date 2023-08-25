@@ -338,3 +338,4 @@ out/
 cmake/
 build/
 bin/
+vcpkg_installed/
